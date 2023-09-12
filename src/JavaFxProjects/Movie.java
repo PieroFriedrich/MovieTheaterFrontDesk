@@ -7,10 +7,6 @@ package JavaFxProjects;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author chinmaya
- */
 public class Movie {
     
     
